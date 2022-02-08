@@ -46,7 +46,7 @@ class ProductDetails extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.orange,
           title: Text(
-            "Ecommerce",
+            "Ecommerces",
           ),
         ),
         body: ListView.builder(
